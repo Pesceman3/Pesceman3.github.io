@@ -1,4 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Gilda+Display);
+@import url(https://fonts.googleapis.com/css?family=Montserrat+Subrayada);
+
 
 html {
   background: radial-gradient(#000, #111);
@@ -70,7 +72,7 @@ html {
 
 .info {
   text-align: center;
-  font-family: 'Gilda Display', serif;
+  font-family: 'Montserrat Subrayada', sans-serif;
   font-size: 30px;
   font-style: italic;
   text-align: center;
