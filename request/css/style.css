@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Bungee+Shade);
-@import url(https://fonts.googleapis.com/css?family=Montserrat+Subrayada);
+@import url(https://fonts.googleapis.com/css?family=Kadwa);
+@import url(https://fonts.googleapis.com/css?family=Libre+Barcode+39+Extended+Text);
 
 
 html {
@@ -31,7 +31,7 @@ html {
 
 .error {
   text-align: center;
-  font-family: 'Bungee Shade', cursive;
+  font-family: 'Kadwa', serif;
   font-size: 95px;
   font-style: normal;
   text-align: center;
@@ -51,7 +51,7 @@ html {
 
 .error:after {
   content: '503';
-  font-family: 'Bungee Shade', cursive;
+  font-family: 'Kadwa', serif;
   font-size: 100px;
   font-style: normal;
   text-align: center;
@@ -72,7 +72,7 @@ html {
 
 .info {
   text-align: center;
-  font-family: 'Montserrat Subrayada', sans-serif;
+  font-family: 'Libre Barcode 39 Extended Text', cursive;
   font-size: 30px;
   font-style: normal;
   text-align: center;
@@ -91,7 +91,7 @@ html {
 
 .error:before {
   content: '503';
-  font-family: 'Bungee Shade', cursive;
+  font-family: 'Kadwa', serif;
   font-size: 100px;
   font-style: normal;
   text-align: center;
