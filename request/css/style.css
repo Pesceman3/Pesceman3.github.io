@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Gilda+Display);
+@import url(https://fonts.googleapis.com/css?family=Bungee+Shade);
 @import url(https://fonts.googleapis.com/css?family=Montserrat+Subrayada);
 
 
@@ -31,7 +31,7 @@ html {
 
 .error {
   text-align: center;
-  font-family: 'Gilda Display', serif;
+  font-family: 'Bungee Shade', cursive;
   font-size: 95px;
   font-style: italic;
   text-align: center;
@@ -51,7 +51,7 @@ html {
 
 .error:after {
   content: '503';
-  font-family: 'Gilda Display', serif;
+  font-family: 'Bungee Shade', cursive;
   font-size: 100px;
   font-style: italic;
   text-align: center;
@@ -91,7 +91,7 @@ html {
 
 .error:before {
   content: '503';
-  font-family: 'Gilda Display', serif;
+  font-family: 'Bungee Shade', cursive;
   font-size: 100px;
   font-style: italic;
   text-align: center;
